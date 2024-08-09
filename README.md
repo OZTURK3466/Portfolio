@@ -1,23 +1,8 @@
-# Portfolio
-Starting a portfolio with React JS
+# React + Vite
 
-Pour lancer le site :
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-1 - Cloner le répo ou télécharger le ZIP
+Currently, two official plugins are available:
 
-2 - Sur le Terminal, faire ces commandes:
-
-    npm run dev
-
-3- Cliquer sur le lien "http://localhost"
-
-
-To launch the website :
-
-1 - Clone the repo or download the ZIP file
-
-2 - On the Terminal, issue these commands:
-
-    npm run dev
-
-3 - Click on the "http://localhost" link
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

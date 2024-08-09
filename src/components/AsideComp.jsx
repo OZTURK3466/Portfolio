@@ -24,7 +24,6 @@ const AsideComp = () => {
 
         <div className="skills section">
           <h2>Compétences</h2>
-          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident, veritatis a ab quas molestias obcaecati, voluptates accusantium blanditiis perspiciatis repellat vero saepe! Doloribus aspernatur dignissimos enim voluptatibus mollitia et totam.</p>
             <div className="skills-list">
               <div className="skill-item">
                 <span>Langage C</span>

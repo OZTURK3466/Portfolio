@@ -1,43 +1,47 @@
 export const projects = [
   {
     id: 1,
-    image:
-      "https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg",
-    title: "Lorem ipsum dolor sit",
+    image: "src/assets/rpg.png",
+    title: "LiesOfCrow",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      "2D and 3D mini game where you meet a Crow who will put you through your worst nightmare.",
+    git: "https://github.com/OZTURK3466/RPG_LiesOfCrow",
   },
+  ,
   {
     id: 2,
     image:
-      "https://www.wisembly.com/assets/wizuploads/2022/12/page-event-en-800x704.webp",
-    title: "Lorem ipsum dolor sit",
+      "https://user-images.githubusercontent.com/77735052/144885310-c6c456ce-f117-4339-ac98-6e9ec75968c0.png",
+    title: "MiniShell",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
-  },
+      "TCSH-based UNIX command interpreter. The interpreter is a program that reads and executes the commands entered by the user.",
+    git: "https://github.com/OZTURK3466/MiniShell",
+    },
   {
     id: 3,
-    image:
-      "https://kinsta.com/fr/wp-content/themes/kinsta/images/custom-pages/page/landing-best-wordpress-themes/screenshots/oceanwp.jpg",
-    title: "Lorem ipsum dolor sit",
+    image: "src/assets/hunter.png",
+    title: "MyHunter",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      "Mini Game based on the rules of Duck Hunt",
+    git: "https://github.com/OZTURK3466/MyHunter",
   },
   {
     id: 4,
     image:
-      "https://kinsta.com/fr/wp-content/themes/kinsta/images/custom-pages/page/landing-best-wordpress-themes/screenshots/astra.jpg",
-    title: "Lorem ipsum dolor sit",
+      "src/assets/pong.png",
+    title: "101pong",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      "The goal of this project is to work on a 3D version of this game (or of the Breakout game. . . ). Only one paddle will be considered, located in the (Oxy) plane (which is defined by the equation z = 0).",
+    git: "https://github.com/OZTURK3466/101pong",
   },
   {
     id: 5,
     image:
-      "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDUnXae0wDzyMEYAaLMS5kXbVsKvwzV9Bvfhvqlg6FEm8crY87",
-    title: "Lorem ipsum dolor sit",
+      "https://miro.medium.com/v2/resize:fit:605/0*TivrYUJ7f-RywS7C.png",
+    title: "DevOps-Popeye",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, cumque sequi eos suscipit repellendus in quia odit, et itaque amet magni assumenda earum ullam ipsam doloribus recusandae. Voluptatibus, vitae ducimus! Laboriosam, iste! Officia quam, facere similique, libero provident vitae unde ratione commodi possimus ab minus nemo? Tempora adipisci aperiam odio aut dolores nemo a iusto quae, illum nulla, error eius! Nisi voluptatem eaque officia obcaecati reprehenderit, nesciunt qui consequatur sint voluptas dignissimos sequi magni voluptates dicta similique quas amet praesentium ipsam maiores illum fugiat, laboriosam dolore aliquam deleniti. Quod, et?",
+      "Containerization and deployment of a web survey application",
+    git: "https://github.com/OZTURK3466/DevOps-Popeye",
   },
 ];
 
@@ -59,7 +63,7 @@ export const experience = [
 export const educations = [
   {
     id: 1,
-    title: "Epitech Montpellier (En cours)",
+    title: "Epitech Montpellier (Master en cours)",
     name: "Programme Grande école (cursus sur 5 ans)",
   },
   {

@@ -32,7 +32,7 @@ function MainPage() {
         <h2>Mes projets</h2>
         
         <article>
-        <img className="featured-img" src="https://cdn.futura-sciences.com/sources/images/actu/google-images-rechercher.jpg"
+        <img className="featured-img" src="https://i1.sndcdn.com/visuals-000109847943-PCwbFv-t1240x260.jpg"
         alt="slug"/>
         <div className="project-info">
           <h3>Mon Github</h3>
@@ -55,7 +55,9 @@ function MainPage() {
             <div className="right">
               <h3>{item.title}</h3>
               <p>{item.description}</p>
+              <a href={(item.git)}>
               <Button type="link" icon= {<GithubOutlined/>}>Github</Button>
+              </a>
             </div>
           </article>);
           })
